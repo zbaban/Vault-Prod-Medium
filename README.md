@@ -1,6 +1,7 @@
 # Vault-Prod-Medium
 
- This is a companion repo to (Deploy a Production Ready Hashicorp Vault Node) article on Medium.
+ This is a companion repo to [Deploy a Production Ready Hashicorp Vault Node](https://zaidbaban.medium.com/deploy-a-production-ready-hashicorp-vault-node-1563623956c9) article on Medium.
+ 
 
 ### Step 1 - Install Hashicorp Consul
 ```
